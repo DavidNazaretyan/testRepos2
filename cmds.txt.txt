@@ -1,0 +1,12 @@
+git clone *link*
+
+git add . 
+
+git status
+
+git push
+
+git pull
+
+git commit -m "hello world"
+
